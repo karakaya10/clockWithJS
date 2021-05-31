@@ -9,6 +9,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background: url('https://www.lefthudson.com/wp-content/uploads/2019/11/geometric-background-hd-new-network-connection-background-hd-dark-geometric-abstract-backdrop-1-for-you-of-geometric-background-hd.jpg');
 }
 
 .clock{
