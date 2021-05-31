@@ -67,3 +67,9 @@ body{
     background-color: black;
     transform: translateX(-50%);
 }
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: gray;
+    }
+}
