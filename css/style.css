@@ -90,7 +90,7 @@ body{
         background: url('/clockWithJS/img/clock.png');
         background-repeat: no-repeat;
         border-radius: 50%;
-        background-size: 50%;
+        background-size: 100%;
     }
     
     .secs{
